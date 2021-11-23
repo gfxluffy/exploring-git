@@ -1,3 +1,3 @@
 ### Exploring Git
 
-# Hey!
+Hey!
